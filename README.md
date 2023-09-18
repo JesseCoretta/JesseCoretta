@@ -7,6 +7,7 @@ I write open source software for X.500/LDAP architects and administrators, with 
 - [`go-schemax`](https://github.com/JesseCoretta/go-schemax)
 - [`go-dcxl`](https://github.com/JesseCoretta/go-dcxl)
 - [`go-objectid`](https://github.com/JesseCoretta/go-objectid)
+- [`go-aci`](https://github.com/JesseCoretta/go-aci)
 
 More repositories are on the way! 💜❤️
 
