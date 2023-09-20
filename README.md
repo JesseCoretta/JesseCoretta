@@ -20,4 +20,4 @@ Got a question or an idea? You can reach me [here](mailto:jesse.coretta@icloud.c
 
 ----
 
-[![Static Badge](https://img.shields.io/badge/donations-yellow?label=%F0%9F%98%BA&labelColor=Yellow)](https://github.com/JesseCoretta/JesseCoretta/blob/main/DONATIONS.md)
+[![Help Animals](https://img.shields.io/badge/donations-yellow?label=%F0%9F%98%BA&labelColor=Yellow)](https://github.com/JesseCoretta/JesseCoretta/blob/main/DONATIONS.md)
