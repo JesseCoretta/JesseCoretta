@@ -2,14 +2,14 @@
 
 Hi, I'm Jesse!
 
-I write open source software for X.500/LDAP architects and administrators, with a focus on abstract capabilities often overlooked by most vendors.
+I write open source software for X.500/LDAP architects and administrators, with a focus on abstract capabilities often overlooked by most vendors. See my package repository [here](https://github.com/JesseCoretta?tab=repositories).
 
 - [`go-schemax`](https://github.com/JesseCoretta/go-schemax)
 - [`go-dcxl`](https://github.com/JesseCoretta/go-dcxl)
 - [`go-objectid`](https://github.com/JesseCoretta/go-objectid)
 - [`go-aci`](https://github.com/JesseCoretta/go-aci)
 
-More repositories are on the way! 💜❤️
+More repositories are always in development -- stay tuned!
 
 Got a question or an idea? You can reach me [here](mailto:jesse.coretta@icloud.com).
 
@@ -20,4 +20,4 @@ Got a question or an idea? You can reach me [here](mailto:jesse.coretta@icloud.c
 
 ----
 
-[![Help Animals](https://img.shields.io/badge/donations-yellow?label=%F0%9F%98%BA&labelColor=Yellow)](https://github.com/JesseCoretta/JesseCoretta/blob/main/DONATIONS.md)
+❤️💜 [![Help Animals](https://img.shields.io/badge/help_animals-gray?label=%F0%9F%90%BE%20%F0%9F%98%BC%20%F0%9F%90%B6&labelColor=yellow)](https://github.com/JesseCoretta/JesseCoretta/blob/main/DONATIONS.md)  💜❤️
