@@ -4,12 +4,7 @@ Hi, I'm Jesse!
 
 I write open source software for X.500/LDAP architects and administrators, with a focus on abstract capabilities often overlooked by most vendors. See my package repository [here](https://github.com/JesseCoretta?tab=repositories).
 
-- [`go-schemax`](https://github.com/JesseCoretta/go-schemax)
-- [`go-dcxl`](https://github.com/JesseCoretta/go-dcxl)
-- [`go-objectid`](https://github.com/JesseCoretta/go-objectid)
-- [`go-aci`](https://github.com/JesseCoretta/go-aci)
-
-More repositories are always in development -- stay tuned!
+More repositories are **always** in development -- stay tuned!
 
 Got a question or an idea? You can reach me [here](mailto:jesse.coretta@icloud.com).
 
