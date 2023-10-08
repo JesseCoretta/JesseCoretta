@@ -2,11 +2,14 @@
 
 Hi, I'm Jesse!
 
-I write open source software for X.500/LDAP architects and administrators, with a focus on abstract capabilities often overlooked by most vendors. See my package repository [here](https://github.com/JesseCoretta?tab=repositories).
+I write open source software for X.500/LDAP architects and administrators, with a focus on abstract capabilities often overlooked by most vendors. 
 
-More repositories are **always** in development -- stay tuned!
+- [Package repositories](https://github.com/JesseCoretta?tab=repositories).
+- [Code Coverages](https://app.codecov.io/gh/JesseCoretta?repoDisplay=Active)
 
-Got a question or an idea? You can reach me [here](mailto:jesse.coretta@icloud.com).
+More package repositories are **always** in development -- stay tuned!
+
+Got a question or an idea? Need help? You can reach me [here](mailto:jesse.coretta@icloud.com).
 
 ----
 
