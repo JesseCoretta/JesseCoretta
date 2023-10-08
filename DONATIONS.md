@@ -8,6 +8,9 @@ If you find my open source software useful and would like to make a donation, I 
 
 You may also choose to donate to a reputable animal shelter or clinic in your area.
 
+If you cannot afford a monetary contribution, consider volunteering at a local shelter, or help coordinate the liberation of animals confined at kill shelters unfairly awaiting execution.
+
 Thank you! - Jesse Coretta
 
-😺 🐶 🐦
+![image](https://github.com/JesseCoretta/JesseCoretta/assets/74126726/0d9bbf47-813d-46ec-955d-45e5c040465f)
+
