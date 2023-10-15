@@ -1,5 +1,8 @@
 ## NEWS
 
+ - **October 15, 2023**
+   - [`go-schemax` Deprecatio Notice](https://github.com/JesseCoretta/go-schemax/discussions)
+
  - **October 11, 2023**
    - Preliminary [`antlr-ds`](https://github.com/JesseCoretta/antlr-ds) release
 
