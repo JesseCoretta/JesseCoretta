@@ -3,7 +3,7 @@
 If you find my open source software useful and would like to make a donation, I would ask that you instead donate to one of the following animal charities:
 
   - [Cat AdopTion Service (CATS) of San Diego](https://www.globalgiving.org/projects/homes-for-paws-cat-adoption-service-rescue/)
-  - The Humane Society
+  - [The Humane Society](https://www.humanesociety.org/resources/donations-faq)
   - World Wildlife Fund
   - ASPCA
 
