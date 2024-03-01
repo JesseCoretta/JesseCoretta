@@ -15,7 +15,7 @@ Got a question or an idea? Need help? You can reach me [here](mailto:jesse.coret
 ----
 
 - [`OID: 1.3.6.1.4.1.56521`](https://oid-info.com/get/1.3.6.1.4.1.56521)
-- [`draft-coretta-x660-ldap-08`](https://datatracker.ietf.org/doc/html/draft-coretta-x660-ldap)
+- [The OID Directory](https://oid.directory)
 
 ----
 
