@@ -1,7 +1,7 @@
 ## NEWS
 
  - **April 8, 2024**
-   - Released new [`go-rfc4512-antlr`](https://github.com/JesseCoretta/go-rfc4512-antlr) package
+   - Released new [`go-antlr4512`](https://github.com/JesseCoretta/go-antlr4512) package
      - This is a necessary component of the up-and-coming [`go-schemax` v2.0.0](https://github.com/JesseCoretta/go-schemax) release
 
  - **February 29, 2024**
