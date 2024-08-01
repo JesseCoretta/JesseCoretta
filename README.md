@@ -14,7 +14,7 @@ Got a question or an idea? Need help? I do contract work! You can reach me [here
 
 ----
 
-- [Mastodon](https://mastodon.social/@JesseCoretta)
+- [Mastodon](https://mastodon.social/@JesseCoretta) / [Reddit](https://www.reddit.com/user/JesseCoretta)
 - [`OID: 1.3.6.1.4.1.56521`](https://oid-info.com/get/1.3.6.1.4.1.56521)
 - [The OID Directory](https://oid.directory) (_Experimental Internet-Draft Series_)
 
