@@ -1,5 +1,9 @@
 ## NEWS
 
+ - **August 26, 2024**
+   - New revisions for the OID Directory Internet-Draft series have been released! See the official [OID Directory site](http://oid.directory) for IETF URLs
+   - Work may now resume for the `go-radir` framework SDK package
+
  - **August 1, 2024**
    - Final edits are underway for the [The OID Directory I-D series](http://oid.directory) (see the [next](https://github.com/oid-directory/id/tree/next) branch for complete change manifest and discussions)
    - I am **desperately** seeking feedback on this series
