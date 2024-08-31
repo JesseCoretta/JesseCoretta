@@ -1,17 +1,15 @@
----
-layout: default
----
-
-<h1>News</h1>
-
-{% for post in site.posts %}
-  {% if post.layout == 'news_update' %}
-    <div class="news-update">
-      <!-- <h2>{{ post.title }}</h2> -->
-      <p>{{ post.date | date: "%B %d, %Y" }}</p>
-      <div class="content">
-        {{ post.content }}
-      </div>
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="./assets/style.css">
+</head>
+<body>
+  <div class="news-update">
+    <!-- <h2>{{ page.title }}</h2> -->
+    <p>{{ page.date | date: "%B %d, %Y" }}</p>
+    <div class="content">
+      {{ content }}
     </div>
-  {% endif %}
-{% endfor %}
+  </div>
+</body>
+</html>
