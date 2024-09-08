@@ -16,6 +16,7 @@ Got a question or an idea? Need help? I do contract work! You can reach me [here
 
 - OID: 1.3.6.1.4.1.56521
 - Author of [The OID Directory](https://oid.directory) (_Experimental Internet-Draft Series_) - Feedback would be appreciated!
+- Follow [The OID Directory GitHub User](https://github.com/oid-directory)
 
 ----
 
