@@ -1,4 +1,4 @@
-## Erratum
+## Errata Tally
 
 Source: [RFC Editor](https://www.rfc-editor.org/errata_search.php?rec_status=15&submitter_name=Jesse+Coretta&presentation=table)
 
